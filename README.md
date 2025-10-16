@@ -1,4 +1,4 @@
-<h1 align="center">NETRADOOT - AI Video Analyzer</h1>  
+<h1 align="center">NETRADOOT - AI Live Footage Analyzer</h1>  
 
 #### We are Team Krakenova and here's the glimpse of our solution.
 
