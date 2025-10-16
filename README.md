@@ -11,7 +11,7 @@
 | File / Folder | Description |
 |----------------|-------------|
 | `.gitignore` | Specifies intentionally untracked files to ignore in Git version control |
-| `api_server.py` | Main FastAPI server handling API requests and communication between modules |
+| `api_server.py` | Handles database page and report downloading function |
 | `best (3).pt` | Pre-trained YOLO model weights used for object or weapon detection |
 | `detection_server.py` | Handles video frame processing and runs detection algorithms |
 | `merger.py` | Merges and integrates results from multiple detection modules for unified output |
